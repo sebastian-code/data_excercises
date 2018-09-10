@@ -1,0 +1,13 @@
+*.zip
+big_data_chunks/
+facebook/
+data_cabs_explorations/
+experiments/
+*.parquet
+.ipynb_checkpoints/
+env/
+bokeh_data/
+checkpoint
+data_visual/
+data_sources/
+requirements.txt
