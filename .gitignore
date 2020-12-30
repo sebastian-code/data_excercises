@@ -10,4 +10,4 @@ bokeh_data/
 checkpoint
 data_visual/
 data_sources/
-requirements.txt
+.python-version
