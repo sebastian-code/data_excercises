@@ -11,3 +11,5 @@ checkpoint
 data_visual/
 data_sources/
 .python-version
+.env
+.tool-versions
