@@ -4,3 +4,7 @@ requests
 xlrd
 bs4
 python-dotenv
+crewai
+crewai_tools
+langchain_community
+ollama
